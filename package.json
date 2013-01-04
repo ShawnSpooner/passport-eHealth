@@ -10,7 +10,7 @@
   "bugs": {
     "url": "http://github.com/shawnspooner/passport-eHealth/issues"
   },
-  "main": "./lib/passport-eHealth",
+  "main": "./lib/passport-ehealth",
   "dependencies": {
     "pkginfo": "0.2.x",
     "passport-oauth": "0.1.x"
